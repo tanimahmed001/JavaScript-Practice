@@ -1,0 +1,87 @@
+.header{
+  width: 400px;
+
+  height: 400px;
+  background-image: url("bugambo.png") ;
+  background-repeat: no-repeat;
+}
+
+#head{
+
+  background-color: tomato ;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 400px;
+
+}
+
+h1{
+    color: purple;
+    background-color: wheat;
+    width: 369px;
+    text-align: center;
+    
+    
+  }
+  li{
+    color: brown;
+  }
+  button{
+    background-color: peru;
+  }
+
+  #fish{
+    color: blue;
+    font-size: large;
+
+  }
+  #sakh{
+    color: green;
+    font-size: larger ;
+
+  }
+#chicken{
+  color: burlywood;
+  font-size: x-large;
+}
+.heading {
+  color: rgb(216, 133, 112);
+  font-size: x-large;
+  text-decoration: underline green;
+  
+}
+.fav , .buy{ 
+  color: yellowgreen;
+}
+input {
+  color: mediumvioletred;
+  border-color: rgb(0, 132, 247);
+  
+}
+#selection{
+  color: rgb(43, 255, 0);
+}
+
+.div{
+  color: wheat;
+  background-color: brown;
+  width: 50%;
+  height: 50%;
+  margin: 40px 8px 6px 4px;
+  border: gray solid 10px;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: black 10px 10px 10px;
+}
+#consectetur{
+  border: black solid 1px;
+}
+
+#footer{
+  border-top: black solid 3px;
+  border-bottom: black solid 3px;
+  margin-top: 30px;
+  margin-bottom: 0px;
+  padding: 3px ;
+  text-align: center;
+  
+}
